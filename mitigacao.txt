@@ -1,0 +1,6 @@
+Dicas de Segurança para Administradores:
+
+1. Desative serviços que não são usados (ex: se não usa FTP, feche a porta 21).
+2. Monitore os logs do sistema diariamente para ver tentativas de login falhas.
+3. Use chaves SSH em vez de senhas para acessos remotos.
+4. Mantenha o sistema sempre atualizado para corrigir falhas conhecidas.
